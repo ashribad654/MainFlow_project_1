@@ -1,5 +1,5 @@
 # 📊 Data Analysis with SQL Internship Projects
-## Main Flow Services and Technologies Pvt. Ltd.
+## Main Flow Services and Technologies Pvt. Ltd.  
 
 This repository contains SQL projects completed during my Data Analysis with SQL Internship.
 
